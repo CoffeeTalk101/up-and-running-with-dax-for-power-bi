@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">062f0b28-6f4f-4a8a-bd88-17ca626d84e1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">062f0b28-6f4f-4a8a-bd88-17ca626d84e1</dc:identifier>
+        <dc:title>Up and Running with DAX for Power BI (for pre sume): A Concise Guide for Non-Technical Users</dc:title>
+        <dc:creator opf:file-as="Box, Alison" opf:role="aut">Alison Box</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
